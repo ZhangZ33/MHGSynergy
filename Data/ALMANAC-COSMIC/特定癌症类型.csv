@@ -1,0 +1,56 @@
+COSMIC ID,Cell line name,Cancer type,Tissue
+905947,786-0,Renal Cancer,Kidney
+905948,A498,Renal Cancer,Kidney
+905949,A549,Non-Small Cell Lung Cancer,Lung
+905950,ACHN,Renal Cancer,Pleural_Effusion
+905951,BT-549,Breast Cancer,Breast
+905963,CAKI-1,Renal Cancer,Skin
+905952,CCRF-CEM,Leukemia,Haematopoietic_And_Lymphoid_Tissue
+905961,COLO-205,Colon Cancer,Ascites
+905935,DU-145,Prostate Cancer,Central_Nervous_System
+905970,EKVX,Non-Small Cell Lung Cancer,Lung
+905971,HCC2998,Colon Cancer,Large_Intestine
+905936,HCT-116,Colon Cancer,Large_Intestine
+905937,HCT-15,Colon Cancer,Large_Intestine
+905938,HL-60,Leukemia,Haematopoietic_And_Lymphoid_Tissue
+905972,HOP-62,Non-Small Cell Lung Cancer,Lung
+905973,HOP-92,Non-Small Cell Lung Cancer,Lung
+905957,Hs-578-T,Breast Cancer,Breast
+905939,HT-29,Colon Cancer,Large_Intestine
+905968,IGROV-1,Ovarian Cancer,Ovary
+905940,K-562,Leukemia,Pleural_Effusion
+905989,KM12,Colon Cancer,Large_Intestine
+905974,LOXIMVI,Melanoma,Lymph_Node
+905975,M14,Melanoma,Skin
+905946,MCF7,Breast Cancer,Pleural_Effusion
+905960,MDA-MB-231,Breast Cancer,Pleural_Effusion
+908123,MDA-MB-468,Breast Cancer,Pleural_Effusion
+905958,MOLT-4,Leukemia,Haematopoietic_And_Lymphoid_Tissue
+905941,NCI-H226,Non-Small Cell Lung Cancer,Pleural_Effusion
+905942,NCI-H23,Non-Small Cell Lung Cancer,Lung
+905967,NCI-H322M,Non-Small Cell Lung Cancer,Lung
+905944,NCI-H522,Non-Small Cell Lung Cancer,Lung
+905933,OVCAR-3,Ovarian Cancer,Ascites
+905990,OVCAR-4,Ovarian Cancer,Ascites
+905969,OVCAR-5,Ovarian Cancer,Ascites
+905991,OVCAR-8,Ovarian Cancer,Ovary
+905934,PC-3,Prostate Cancer,Bone
+905964,RPMI-8226,Leukemia,Haematopoietic_And_Lymphoid_Tissue
+905978,RXF393,Renal Cancer,Kidney
+905986,SF268,CNS Cancer,Central_Nervous_System
+905985,SF295,CNS Cancer,Central_Nervous_System
+905984,SF539,CNS Cancer,Central_Nervous_System
+905955,SK-MEL-2,Melanoma,Skin
+905954,SK-MEL-28,Melanoma,Skin
+905956,SK-MEL-5,Melanoma,Lymph_Node
+905959,SK-OV-3,Ovarian Cancer,Ascites
+905979,SN12C,Renal Cancer,Kidney
+905982,SNB75,CNS Cancer,Central_Nervous_System
+905965,SR,Leukemia,Pleural_Effusion
+905962,SW620,Colon Cancer,Lymph_Node
+905945,T47D,Breast Cancer,Pleural_Effusion
+905980,TK10,Renal Cancer,Kidney
+905983,U251,CNS Cancer,Central_Nervous_System
+905977,UACC-257,Melanoma,Skin
+905976,UACC-62,Melanoma,Skin
+974304,UO-31,Renal Cancer,Kidney
